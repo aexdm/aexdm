@@ -6,7 +6,7 @@
 
 # hey, i'm aiden 👋
 
-**17 y/o dev · i break things, then rebuild them better**
+**17 y/o dev · i like coding silly things**
 
 [![Discord](https://img.shields.io/badge/discord-@aexdm-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/853310319002517524)
 [![GitHub](https://img.shields.io/badge/github-aexdm-181717?style=flat&logo=github&logoColor=white)](https://github.com/aexdm)
@@ -29,31 +29,9 @@ local aiden = {
 }
 ```
 
-haii! i'm aiden, 17 and i love breaking stuff then remaking it better.
+haii! i'm aiden, 17 i like building cool projects.
 mostly code in **Lua, Python & Web** but always down to learn new things.
-super into **art & design** too — love working on both whenever i can.
-
----
-
-## // projects
-
-### 🎮 AW : Heart Of The Unreturned `WIP`
-> A parkour Roblox fan game inspired by Abyss World. Built with a team.
-
-- handled bug fixes, movement systems & lighting setup
-- multiple terrain themes, checkpoint system, momentum
-- **stack:** `Lua` `Roblox Studio`
-- [▶ play on roblox](https://www.roblox.com/games/132429881613824/ABYSS-WORLD-HOTU)
-
----
-
-### 🤖 nigbot
-> A Discord bot that nukes channels on a set schedule. fire and forget.
-
-- deletes and recreates channels at whatever interval you set
-- runs off a simple config, does what it says on the tin
-- **stack:** `Python` `Discord`
-- [→ view on github](https://github.com/aexdm/nigbot)
+super into **art & design** too love working on both whenever i can.
 
 ---
 
