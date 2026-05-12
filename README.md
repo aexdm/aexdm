@@ -50,24 +50,6 @@ also super into **art & design**, so i love mixing code with creative projects w
 
 ---
 
-## // stats
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=aexdm&show_icons=true&theme=midnight-purple&hide_border=true"
-  height="165"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aexdm&layout=compact&theme=midnight-purple&hide_border=true"
-  height="165"
-/>
-
-</div>
-
----
-
 ## // currently
 
 - building **aiden.dev**
