@@ -53,10 +53,10 @@ also super into **art & design**, so i love mixing code with creative projects w
 ## // stats
 
 <div align="center">
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aexdm&show_icons=true&theme=midnight-purple&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aexdm&show_icons=true&theme=midnight-purple&hide_border=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aexdm&layout=compact&theme=midnight-purple&hide_border=true&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aexdm&layout=compact&theme=midnight-purple&hide_border=true)
 
 </div>
 
