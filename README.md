@@ -62,7 +62,7 @@ also super into **art & design**, so i love mixing code with creative projects w
 <div align="center">
 
 ```txt
-// aiden.dev · 17 y/o · breaking things since forever
+// adam.dev · 17 y/o · breaking things since forever
 ```
 
 </div>
