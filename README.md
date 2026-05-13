@@ -4,7 +4,7 @@
 // portfolio
 ```
 
-# hey, i'm aiden 👋
+# hey, i'm adam 👋
 
 **17 y/o dev · i like coding silly things**
 
@@ -29,7 +29,7 @@ local aiden = {
 }
 ```
 
-haii! i'm aiden — 17 y/o dev building cool stuff.
+haii! i'm adam 17 y/o dev building cool stuff.
 
 i mostly work with **Lua, Python & Web**, but i'm always learning new things.  
 also super into **art & design**, so i love mixing code with creative projects whenever i can.
